@@ -7,7 +7,7 @@ Redução dos Custos em Farmácias com AWS
 # Contexto: Empresa Farmacêutica
 
 # Cenário Atual
-Empresa farmacêutica sem uso de computação em nuvem, operando com infraestrutura local (on-premises) ou processos manuais, e com a necessidade de distribuir dados, sistemas e serviços para outras farmácias ou parceiros.
+Empresa farmacêutica sem uso de computação em nuvem com a necessidade de distribuir dados, sistemas e serviços para outras farmácias ou parceiros.
 
 # Objetivo principal: reduzir custos operacionais, aumentar escalabilidade e facilitar integração com terceiros.
 
